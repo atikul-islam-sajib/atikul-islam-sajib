@@ -20,6 +20,17 @@
   <img src="skills.png" alt="Skills">
 </p>
 
+<h3 align="center">My Skills</h3>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow">
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch">
+  <img src="https://img.icons8.com/color/48/000000/natural-language-processing.png" alt="NLP">
+  <img src="https://img.icons8.com/color/48/000000/machine-learning-model.png" alt="Machine Learning">
+  <img src="https://img.icons8.com/color/48/000000/computer-vision.png" alt="Computer Vision">
+</p>
+
 <h2 align="center">📬 Contact</h2>
 
 <p align="center">
