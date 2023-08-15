@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/36/000000/python--v1.png" alt="Python">
   <img src="https://img.icons8.com/color/36/000000/tensorflow.png" alt="TensorFlow">
-  <img src="https://icons8.com/icons/request-icon/pytorch--UVmF6qDYGaoC" alt="PyTorch">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch">
   <img src="https://img.icons8.com/color/36/000000/natural-language-processing.png" alt="NLP">
   <img src="https://img.icons8.com/color/36/000000/machine-learning-model.png" alt="Machine Learning">
   <img src="https://img.icons8.com/color/36/000000/computer-vision.png" alt="Computer Vision">
