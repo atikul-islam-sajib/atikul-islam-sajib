@@ -23,7 +23,7 @@
 <h2 align="center">📬 Contact</h2>
 
 <p align="center">
-  I'm open to collaborations, discussions, and feedback on my projects. Feel free to reach out to me at <a href="mailto:your.email@example.com">your.email@example.com</a>.
+  I'm open to collaborations, discussions, and feedback on my projects. Feel free to reach out to me at <a href="mailto:atikulislamsajib137@gmail.com">atikulislamsajib137@gmail.com</a>.
 </p>
 
 <h2 align="center">📝 License</h2>
