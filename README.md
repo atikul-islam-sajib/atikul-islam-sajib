@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://media.licdn.com/dms/image/D4E03AQHUYovSrcDk-A/profile-displayphoto-shrink_200_200/0/1674686110163?e=1695859200&v=beta&t=BmCYOZptED-2OkxgnZzGBLl3FVQZQVE_i3ZHZQw3-tU" alt="Atikul Islam Sajib - Machine Learning Engineer">
 </div>
 
@@ -32,3 +32,4 @@
   <span style="color:#424242;">This repository and its contents are open-source under the MIT License. See <a href="LICENSE" style="color:#0288D1;">LICENSE</a> for more details.<br>
   Let's innovate and build the future together!</span>
 </p>
+](https://github.com/settings/profile)https://github.com/settings/profile
