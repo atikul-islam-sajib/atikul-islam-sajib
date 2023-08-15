@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Atikul Islam Sajib - Machine Learning Engineer">
+  <img src="https://media.licdn.com/dms/image/D4E03AQHUYovSrcDk-A/profile-displayphoto-shrink_200_200/0/1674686110163?e=1695859200&v=beta&t=BmCYOZptED-2OkxgnZzGBLl3FVQZQVE_i3ZHZQw3-tU" alt="Atikul Islam Sajib - Machine Learning Engineer">
 </div>
 
 <h2 align="center">👋 Welcome</h2>
