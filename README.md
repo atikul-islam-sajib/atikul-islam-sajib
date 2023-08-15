@@ -1,7 +1,7 @@
 <h2 align="center"><span style="color:#009688;">👋 Welcome</span></h2>
 
 <p align="center">
-  <span style="color:#424242;">Hello! I'm Atikul Islam Sajib, a passionate Machine Learning Engineer specializing in object detection and natural language processing (NLP). Welcome to my GitHub profile, where I showcase a collection of projects and contributions in these exciting fields.</span>
+  <span style="color:#424242;">Hello! I'm Atikul Islam Sajib, a passionate Machine Learning Engineer specializing in object detection and natural language processing (NLP). Welcome to my GitHub profile, where I showcase a collection of <span style="color:#FF5722;">X</span> projects and contributions in these exciting fields.</span>
 </p>
 
 <h2 align="center"><span style="color:#009688;">📚 About Me</span></h2>
@@ -27,4 +27,9 @@
 <p align="center">
   <span style="color:#424242;">This repository and its contents are open-source under the MIT License. See <a href="LICENSE" style="color:#0288D1;">LICENSE</a> for more details.<br>
   Let's innovate and build the future together!</span>
+</p>
+
+<!-- Add a badge here to show the number of repositories or contributions -->
+<p align="center">
+  <img src="https://img.shields.io/github/repositories/Atikul137?color=%23009488&label=Repositories&style=flat-square" alt="Number of Repositories">
 </p>
