@@ -2,33 +2,33 @@
   <img src="https://media.licdn.com/dms/image/D4E03AQHUYovSrcDk-A/profile-displayphoto-shrink_200_200/0/1674686110163?e=1695859200&v=beta&t=BmCYOZptED-2OkxgnZzGBLl3FVQZQVE_i3ZHZQw3-tU" alt="Atikul Islam Sajib - Machine Learning Engineer">
 </div>
 
-<h2 align="center">👋 Welcome</h2>
+<h2 align="center"><span style="color:#009688;">👋 Welcome</span></h2>
 
 <p align="center">
-  Hello! I'm Atikul Islam Sajib, a passionate Machine Learning Engineer specializing in object detection and natural language processing (NLP). Welcome to my GitHub profile, where I showcase a collection of projects and contributions in these exciting fields.
+  <span style="color:#424242;">Hello! I'm Atikul Islam Sajib, a passionate Machine Learning Engineer specializing in object detection and natural language processing (NLP). Welcome to my GitHub profile, where I showcase a collection of projects and contributions in these exciting fields.</span>
 </p>
 
-<h2 align="center">📚 About Me</h2>
+<h2 align="center"><span style="color:#009688;">📚 About Me</span></h2>
 
 <p align="center">
-  I'm dedicated to pushing the boundaries of AI and machine learning to solve real-world challenges. With a focus on object detection and NLP, I've gained expertise in creating models that can perceive the world and understand human language.
+  <span style="color:#424242;">I'm dedicated to pushing the boundaries of AI and machine learning to solve real-world challenges. With a focus on object detection and NLP, I've gained expertise in creating models that can perceive the world and understand human language.</span>
 </p>
 
-<h2 align="center">🎯 Skills</h2>
+<h2 align="center"><span style="color:#009688;">🎯 Skills</span></h2>
 
 <p align="center">
-  Machine Learning | Deep Learning | Object Detection | Natural Language Processing | Python | TensorFlow | PyTorch | Data Analysis | Computer Vision
+  <span style="color:#424242;">Machine Learning | Deep Learning | Object Detection | Natural Language Processing | Python | TensorFlow | PyTorch | Data Analysis | Computer Vision</span>
 </p>
 
-<h2 align="center">📬 Contact</h2>
+<h2 align="center"><span style="color:#009688;">📬 Contact</span></h2>
 
 <p align="center">
-  I'm open to collaborations, discussions, and feedback on my projects. Feel free to reach out to me at <a href="mailto:atikulislamsajib137@gmail.com">atikulislamsajib137@gmail.com</a>.
+  <span style="color:#424242;">I'm open to collaborations, discussions, and feedback on my projects. Feel free to reach out to me at <a href="mailto:atikulislamsajib137@gmail.com" style="color:#0288D1;">atikulislamsajib137@gmail.com</a>.</span>
 </p>
 
-<h2 align="center">📝 License</h2>
+<h2 align="center"><span style="color:#009688;">📝 License</span></h2>
 
 <p align="center">
-  This repository and its contents are open-source under the MIT License. See <a href="LICENSE">LICENSE</a> for more details.<br>
-  Let's innovate and build the future together!
+  <span style="color:#424242;">This repository and its contents are open-source under the MIT License. See <a href="LICENSE" style="color:#0288D1;">LICENSE</a> for more details.<br>
+  Let's innovate and build the future together!</span>
 </p>
