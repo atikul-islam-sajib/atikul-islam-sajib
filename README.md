@@ -1,7 +1,7 @@
 <h2 align="center"><span style="color:#009688;">👋 Welcome</span></h2>
 
 <p align="center">
-  <span style="color:#424242;">Hello! I'm Atikul Islam Sajib, a passionate Machine Learning Engineer specializing in object detection and natural language processing (NLP). Welcome to my GitHub profile, where I showcase a collection of <span style="color:#FF5722;"></span> projects and contributions in these exciting fields.</span>
+  <span style="color:#424242;">Hello! I'm Atikul Islam Sajib, a passionate Machine Learning Engineer specializing in object detection and natural language processing (NLP). Welcome to my GitHub profile, where I showcase a collection of <span style="color:#FF5722;"></span> projects based on mostly deep learning domain and contributions in these exciting fields.</span>
 </p>
 
 <h2 align="center"><span style="color:#009688;">📚 About Me</span></h2>
@@ -13,7 +13,7 @@
 <h2 align="center"><span style="color:#009688;">🎯 Skills</span></h2>
 
 <p align="center">
-  <span style="color:#424242;">Machine Learning | Deep Learning | Object Detection | Natural Language Processing | Python | TensorFlow | PyTorch | Data Analysis | Computer Vision</span>
+  <span style="color:#424242;">Machine Learning | Deep Learning | Object Detection | Natural Language Processing | Python | TensorFlow | PyTorch | Data Analysis | Computer Vision | Flask | Docker | Azure | AWS |Heroku</span>
 </p>
 
 <h2 align="center"><span style="color:#009688;">📬 Contact</span></h2>
