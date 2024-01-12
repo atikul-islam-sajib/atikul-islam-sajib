@@ -19,7 +19,7 @@
 <h2 align="center"><span style="color:#009688;">📬 Contact</span></h2>
 
 <p align="center">
-  <span style="color:#424242;">I'm open to collaborations, discussions, and feedback on my projects. Feel free to reach out to me at <a href="mailto:atikulislamsajib137@gmail.com" style="color:#0288D1;">atikulislamsajib137@gmail.com</a>.</span>
+  <span style="color:#424242;">I'm open to collaborations, discussions, and feedback on my projects. Feel free to reach out to me at <a href="mailto:atikulislamsajib137@gmail.com/atikul.sajib@ptb.de" style="color:#0288D1;">atikulislamsajib137@gmail.com</a>.</span>
 </p>
 
 <h2 align="center"><span style="color:#009688;">📝 License</span></h2>
