@@ -2,6 +2,10 @@
 
 Hello! I'm Atikul, a fervent Machine Learning Engineer with a specialty in object detection and Natural Language Processing (NLP). This is my tech sanctuary, where my deep learning endeavors and contributions take center stage.
 
+### 2023: A Year in Review
+- 🚀 **1000+ Commits**: A year of consistent coding, problem-solving, and continuous learning.
+- 🌍 **50+ Repositories**: Contributed to and maintained a diverse set of projects showcasing a wide range of technologies.
+
 ## 📚 About Me
 
 In the quest to decode AI's potential, I navigate through the complexities of machine learning. My forte in object detection and NLP translates into models that not only see the world but also comprehend the nuances of human language.
