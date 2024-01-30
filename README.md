@@ -1,12 +1,16 @@
 <h2 align="center">👋 Welcome to Atikul Islam Sajib's Space</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=flat-square" alt="Commits Badge"/>
-  <img src="https://img.shields.io/badge/Repositories-50%2B-brightgreen?style=flat-square" alt="Repositories Badge"/>
+  <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=for-the-badge&logo=github" alt="Commits Badge"/>
+  <img src="https://img.shields.io/badge/Repositories-50%2B-brightgreen?style=for-the-badge&logo=github" alt="Repositories Badge"/>
 </p>
 
 <p align="center">
-  <a href="mailto:atikulislamsajib137@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=flat-square&logo=gmail" alt="Email Badge"/></a>
+  <a href="mailto:atikulislamsajib137@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail" alt="Email Badge"/></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="your-profile-banner-image-url" alt="Profile Banner"/></a>
 </p>
 
 <p align="center">Hello! I'm Atikul, a fervent Machine Learning Engineer with a specialty in object detection and Natural Language Processing (NLP). This is my tech sanctuary, where my deep learning endeavors and contributions take center stage.</p>
@@ -28,6 +32,13 @@ In the quest to decode AI's potential, I navigate through the complexities of ma
 
 - **🚀 1000+ Commits**: A year of consistent coding, problem-solving, and continuous learning.
 - **🌍 50+ Repositories**: Contributed to and maintained a diverse set of projects showcasing a wide range of technologies.
+
+<h3>📊 My GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak"/>
+</p>
 
 <h3>📬 Connect with Me</h3>
 
