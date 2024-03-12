@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atikul-islam-sajib&label=Profile%20views&color=0e75b6&style=flat" alt="atikul-islam-sajib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikul-islam-sajib" alt="atikul-islam-sajib" /></a> </p>
-
 - 🔭 I’m currently working on [GAN based model - pix2pix](https://github.com/atikul-islam-sajib/pix2pix)
 
 - 🌱 I’m currently learning **ransforming Data into Insight with AI and Deep Learning Technologies, and currently mastering Generative Adversarial Networks (GANs)**
 
-- 👯 I’m looking to collaborate on **U-Net using PyTorch**
+- 👯 I’m looking to collaborate on **innovative ML/DL projects that push the boundaries of AI, especially in areas such as healthcare, environmental sustainability, or education technology.**
+
+- 🤝 I’m looking for help with [Projects that push the boundaries of ML and DL, aiming to solve real-world problems, improve AI accessibility, or innovate in fields like healthcare, environmental science, and education.](https://github.com/atikul-islam-sajib/pix2pix)
 
 - 💬 Ask me about **Machine Learning and Deep Learning to solve complex problems, enhance project implementations, and drive innovation in AI technologies.**
 
