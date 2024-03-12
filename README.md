@@ -6,21 +6,14 @@
 
 - 🔭 I’m currently working on [GAN based model - pix2pix](https://github.com/atikul-islam-sajib/pix2pix)
 
-- 🌱 I’m currently learning **ransforming Data into Insight with AI and Deep Learning Technologies, and currently mastering Generative Adversarial Networks (GANs)**
-
-- 👯 I’m looking to collaborate on **innovative ML/DL projects that push the boundaries of AI, especially in areas such as healthcare, environmental sustainability, or education technology.**
-
-- 🤝 I’m looking for help with [Projects that push the boundaries of ML and DL, aiming to solve real-world problems, improve AI accessibility, or innovate in fields like healthcare, environmental science, and education.](https://github.com/atikul-islam-sajib/pix2pix)
-
-- 💬 Ask me about **Machine Learning and Deep Learning to solve complex problems, enhance project implementations, and drive innovation in AI technologies.**
-
-- 📫 How to reach me **atikulislamsajib137@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atikul-islam-sajib-351b03261/overlay/about-this-profile/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atikul Islam Sajib LinkedIn Profile" height="30" width="40" /></a><a href="https://wa.me/+4917685993564" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Contact" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/atikul-islam-sajib-351b03261/overlay/about-this-profile/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atikul Islam Sajib LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://wa.me/+4917685993564" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Contact" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="_blank"><img align="center" src="https://i.pinimg.com/564x/61/28/d9/6128d9de487f77ae4370513f7d94f123.jpg" alt="Email" height="30" width="40" /></a>
 </p>
+
 
 <img align="right" alt="image" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
