@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atikul-islam-sajib&label=Profile%20views&color=0e75b6&style=flat" alt="atikul-islam-sajib" /> </p>
 
-- 🔭 I’m currently working on [GAN based model - pix2pix](https://github.com/atikul-islam-sajib/pix2pix)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
