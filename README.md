@@ -1,3 +1,4 @@
+![logo](https://newsroom.arm.com/wp-content/uploads/2020/11/ai_render.jpg)
 <h1 align="center">Hi 👋, I'm Atikul Islam Sajib</h1>
 <h3 align="center">Experienced Machine Learning Engineer: Transforming Data into Insight with AI and Deep Learning Technologies</h3>
 
