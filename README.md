@@ -1,41 +1,30 @@
-<h2 align="center">👋 Welcome to Atikul Islam Sajib's Space</h2>
+<h1 align="center">Hi 👋, I'm Atikul Islam Sajib</h1>
+<h3 align="center">Experienced Machine Learning Engineer: Transforming Data into Insight with AI and Deep Learning Technologies</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-1000%2B-blue?style=flat-square" alt="Commits Badge"/>
-  <img src="https://img.shields.io/badge/Repositories-50%2B-brightgreen?style=flat-square" alt="Repositories Badge"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikul-islam-sajib&label=Profile%20views&color=0e75b6&style=flat" alt="atikul-islam-sajib" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikul-islam-sajib" alt="atikul-islam-sajib" /></a> </p>
+
+- 🔭 I’m currently working on [GAN based model - pix2pix](https://github.com/atikul-islam-sajib/pix2pix)
+
+- 🌱 I’m currently learning **ransforming Data into Insight with AI and Deep Learning Technologies, and currently mastering Generative Adversarial Networks (GANs)**
+
+- 👯 I’m looking to collaborate on **U-Net using PyTorch**
+
+- 💬 Ask me about **Machine Learning and Deep Learning to solve complex problems, enhance project implementations, and drive innovation in AI technologies.**
+
+- 📫 How to reach me **atikulislamsajib137@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/atikul-islam-sajib-351b03261/overlay/about-this-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atikul-islam-sajib-351b03261/overlay/about-this-profile/" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:atikulislamsajib137@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=flat-square&logo=gmail" alt="Email Badge"/></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="center">Hello! I'm Atikul, a fervent Machine Learning Engineer with a specialty in object detection and Natural Language Processing (NLP). This is my tech sanctuary, where my deep learning endeavors and contributions take center stage.</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikul-islam-sajib&show_icons=true&locale=en&layout=compact" alt="atikul-islam-sajib" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikul-islam-sajib&show_icons=true&locale=en" alt="atikul-islam-sajib" /></p>
 
-<h3>📚 About Me</h3>
-
-In the quest to decode AI's potential, I navigate through the complexities of machine learning. My forte in object detection and NLP translates into models that not only see the world but also comprehend the nuances of human language.
-
-<h3>🎯 Core Competencies</h3>
-
-- **Expertise:** Machine Learning | Deep Learning | Object Detection | Natural Language Processing | Python | TensorFlow | PyTorch
-- **Tools & Technologies:** Data Analysis | Computer Vision | Flask | Docker | Cloud Services (Azure, AWS, Heroku)
-
----
-
-<h3>📈 2023: A Year in Review</h3>
-
-- **🚀 1000+ Commits**: A year of consistent coding, problem-solving, and continuous learning.
-- **🌍 50+ Repositories**: Contributed to and maintained a diverse set of projects showcasing a wide range of technologies.
-
-<h3>📬 Connect with Me</h3>
-
-Let's merge our creative energy! For collaborations, project discussions, or just a chat about the latest in AI, ping me at <a href="mailto:atikulislamsajib137@gmail.com">atikulislamsajib137@gmail.com</a>.
-
----
-
-<h3>📝 License & Collaboration</h3>
-
-Join me in this open-source journey under the MIT License. Dive into the [LICENSE](LICENSE) for details. Together, let's innovate and shape the future of technology!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atikul-islam-sajib&" alt="atikul-islam-sajib" /></p>
