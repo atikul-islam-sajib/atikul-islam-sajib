@@ -1,38 +1,19 @@
 ![logo](https://newsroom.arm.com/wp-content/uploads/2020/11/ai_render.jpg)
 <h1 align="center">Hi 👋, I'm Atikul Islam Sajib</h1>
-<p align="center">
-  Welcome to my professional profile! My name is Atikul Islam Sajib, and I am currently advancing my studies in Computer Science as an international student in Germany. I hold a Bachelor of Science degree in
-  Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering at United International University (UIU).
-</p>
+<div align="center">
+  <h5>Welcome to my professional profile! My name is Atikul Islam Sajib. I am currently advancing my studies in Computer Science as an international student in Germany. I hold a Bachelor of Science degree in Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering at United International University (UIU).</h5>
 
-<p align="center">
-  My expertise spans Machine Learning Theory and Algorithms, Bioinformatics, and Computer Systems. I am passionate about developing and innovating algorithms within the Machine Learning domain, striving to
-  enhance algorithmic performance and applicability.
-</p>
+  <p>My expertise spans Machine Learning Theory and Algorithms, Bioinformatics, and Computer Systems. I am passionate about developing and innovating algorithms within the Machine Learning domain, striving to enhance algorithmic performance and applicability.</p>
 
-<p align="center">
-  With over four years of experience as a Machine Learning Engineer and Research Assistant, I have a proven track record of developing successful algorithms and predictive models that have significantly improved
-  business efficiency across various industries. My proficiency covers a broad spectrum of Machine Learning and Deep Learning techniques, including but not limited to Logistic Regression, Support Vector Machines
-  (SVM), Decision Trees, Random Forest, Adaboost, Gradient Boosting, XGBoost, and cutting-edge architectures like Generative Adversarial Networks (GAN), Vision Transformers (ViT), Transformers, and GPT developed
-  from scratch using PyTorch.
-</p>
+  <p>With over four years of experience as a Machine Learning Engineer and Research Assistant, I have a proven track record of developing successful algorithms and predictive models that have significantly improved business efficiency across various industries. My proficiency covers a broad spectrum of Machine Learning and Deep Learning techniques, including but not limited to Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forest, Adaboost, Gradient Boosting, XGBoost, and cutting-edge architectures like Generative Adversarial Networks (GAN), Vision Transformers (ViT), Transformers, and GPT developed from scratch using PyTorch.</p>
 
-<p align="center">
-  I excel in clustering, regression, and classification tasks, leveraging my skills to address complex business challenges. My expertise in Exploratory Data Analysis (EDA) and feature engineering allows me to
-  uncover underlying patterns in data and optimize model performance effectively. Throughout my career, I have contributed to over 50 Data Science projects, solving diverse business problems through the
-  application of Machine Learning and Deep Learning methodologies, including Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN).
-</p>
+  <p>I excel in clustering, regression, and classification tasks, leveraging my skills to address complex business challenges. My expertise in Exploratory Data Analysis (EDA) and feature engineering allows me to uncover underlying patterns in data and optimize model performance effectively. Throughout my career, I have contributed to over 50 Data Science projects, solving diverse business problems through the application of Machine Learning and Deep Learning methodologies, including Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN).</p>
 
-<p align="center">
-  My technical repertoire also includes practical experience with Docker, MLFlow, and Data Version Control (DVC), which streamline the development, tracking, and deployment of machine learning models. This,
-  coupled with my extensive experience in deploying models on cloud platforms and edge devices, showcases my commitment to leveraging cutting-edge technology to solve real-world issues and drive innovation in the
-  field of Machine Learning.
-</p>
+  <p>My technical repertoire also includes practical experience with Docker, MLFlow, and Data Version Control (DVC), which streamline the development, tracking, and deployment of machine learning models. This, coupled with my extensive experience in deploying models on cloud platforms and edge devices, showcases my commitment to leveraging cutting-edge technology to solve real-world issues and drive innovation in the field of Machine Learning.</p>
 
-<p align="center">
-  I am dedicated to continuous learning and staying at the forefront of technological advancements to deliver impactful solutions and drive efficiency in business processes. Thank you for visiting my profile, and
-  I look forward to connecting with professionals and opportunities that align with my expertise and passion.
-</p>
+  <p>I am dedicated to continuous learning and staying at the forefront of technological advancements to deliver impactful solutions and drive efficiency in business processes. Thank you for visiting my profile, and I look forward to connecting with professionals and opportunities that align with my expertise and passion.</p>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atikul-islam-sajib&label=Profile%20views&color=0e75b6&style=flat" alt="atikul-islam-sajib" /> </p>
 
