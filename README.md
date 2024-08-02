@@ -1,7 +1,7 @@
 ![logo](https://newsroom.arm.com/wp-content/uploads/2020/11/ai_render.jpg)
 <h1 align="center">Hi 👋, I'm Atikul Islam Sajib</h1>
 <div align="center">
-  <h5>Welcome to my professional profile! My name is Atikul Islam Sajib. I am currently advancing my studies in Computer Science as an international student in Germany. I hold a Bachelor of Science degree in Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering at United International University (UIU).</h5>
+  <p>Welcome to my professional profile!. I am currently advancing my studies in Computer Science as an international student in Germany. I hold a Bachelor of Science degree in Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering at United International University (UIU).</p>
 
   <p>My expertise spans Machine Learning Theory and Algorithms, Bioinformatics, and Computer Systems. I am passionate about developing and innovating algorithms within the Machine Learning domain, striving to enhance algorithmic performance and applicability.</p>
 
