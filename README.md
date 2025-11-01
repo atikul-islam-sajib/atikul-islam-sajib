@@ -21,7 +21,7 @@
   </p>
 
   <p>
-    With <b>4+ years of experience</b> as a <b>Machine Learning Engineer</b> and <b>Research Assistant</b>,  
+    With <b>7+ years of experience</b> as a <b>Machine Learning Engineer</b> and <b>Research Assistant</b>,  
     I specialize in designing and implementing advanced models that drive data-driven decision-making across academic and industrial domains.
   </p>
 </div>
