@@ -36,42 +36,42 @@
     <td>Siemens AG, Berlin, Germany</td>
   </tr>
   <tr>
-    <td colspan="2"><i>Working on applied AI solutions and predictive modeling for industrial systems, focusing on model reliability, deployment, and multimodal data processing.</i></td>
+    <td colspan="2"><i>Applied AI for predictive maintenance and industrial automation — focused on model reliability, multimodal data integration, and scalable deployment.</i></td>
   </tr>
   <tr>
     <td><b>Machine Learning Engineer</b></td>
     <td>Againsoft, Bangladesh</td>
   </tr>
   <tr>
-    <td colspan="2"><i>Developed and deployed scalable ML pipelines for financial analytics and automation, improving model performance and efficiency across business applications.</i></td>
+    <td colspan="2"><i>Developed and deployed scalable ML pipelines for financial analytics and automation, enhancing prediction accuracy and model efficiency.</i></td>
   </tr>
   <tr>
     <td><b>Research Assistant</b></td>
     <td>Physikalisch-Technische Bundesanstalt (PTB), Germany</td>
   </tr>
   <tr>
-    <td colspan="2"><i>Contributed to AI-driven sensor fusion, precision measurement modeling, and time-series data analysis for metrology research.</i></td>
+    <td colspan="2"><i>Contributed to AI-based sensor fusion, precision measurement, and time-series signal modeling for metrological applications.</i></td>
   </tr>
   <tr>
     <td><b>Research Assistant</b></td>
     <td>Hochschule für Wirtschaft und Recht Berlin (HWR Berlin)</td>
   </tr>
   <tr>
-    <td colspan="2"><i>Focused on Explainable AI (XAI), deep learning interpretability, and multimodal model optimization for academic research.</i></td>
+    <td colspan="2"><i>Focused on Explainable AI (XAI), deep learning interpretability, and multimodal model optimization for research projects.</i></td>
   </tr>
   <tr>
     <td><b>Research Assistant</b></td>
     <td>Technische Universität Berlin (TU Berlin)</td>
   </tr>
   <tr>
-    <td colspan="2"><i>Worked on Transformer-based architectures for vision-language integration and multimodal data representation.</i></td>
+    <td colspan="2"><i>Worked on Transformer-based architectures for vision-language integration and multimodal learning systems.</i></td>
   </tr>
   <tr>
     <td><b>Research Assistant</b></td>
     <td>Fraunhofer Institute, Germany</td>
   </tr>
   <tr>
-    <td colspan="2"><i>Researched industrial AI applications, focusing on scalability, edge inference, and cloud deployment of ML systems.</i></td>
+    <td colspan="2"><i>Contributed to industrial AI systems research, focusing on cloud-based deployment, model compression, and real-time inference.</i></td>
   </tr>
 </table>
 
@@ -98,14 +98,31 @@
 <h2 align="center">🚀 Research Interests</h2>
 
 <div align="center">
-  <p>My research focuses on:</p>
   <ul align="center">
     <li>Designing <b>efficient Transformer architectures</b> for multimodal understanding</li>
     <li>Developing <b>foundation models</b> and <b>vision-language systems</b> from scratch using PyTorch</li>
     <li>Improving <b>explainability and interpretability</b> in modern AI models</li>
-    <li>Leveraging <b>AI for scientific research and healthcare</b> through Bioinformatics and predictive modeling</li>
+    <li>Applying <b>AI in Bioinformatics</b> and scientific data modeling</li>
   </ul>
 </div>
+
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center"> 
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
@@ -125,26 +142,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=atikul-islam-sajib&label=Profile%20views&color=0e75b6&style=flat" alt="atikul-islam-sajib" /> 
-</p>
-
----
-
-<img align="right" alt="animated" width="300" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<h2 align="left">🛠️ Languages & Tools</h2>
-
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
